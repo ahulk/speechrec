@@ -1,6 +1,6 @@
 {
-  "name": "type-n-speak",
-  "homepage": "https://bradtraversy.github.io/type-n-speak",
+  "name": "speechrec",
+  "homepage": "https://ahulk.github.io/speechrec/",
   "version": "1.0.0",
   "description": "Text to speak and synthesis app using the web speech API",
   "main": "index.js",
